@@ -84,7 +84,3 @@ Constraint Management
 
 Business-Oriented Analysis
 
-👩‍💻 Author
-
-Priya Rathod
-Aspiring Data Analyst | SQL Developer
